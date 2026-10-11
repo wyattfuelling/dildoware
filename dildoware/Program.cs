@@ -32,7 +32,7 @@ class Program
 
         // webhook to notify discord server that computer has started
 
-        string webhookUrl = "https://discord.com/api/webhooks/1558517633945436302/5fzumBakqIKFAzPWaTgyNQhXMHVOGmgsoXKagU33n2ai4g9PUz_a6nyBCanvSnJxMjdl";
+        string webhookUrl = "YOUR_WEBHOOK";
 
         using HttpClient client = new HttpClient();
 
@@ -91,7 +91,7 @@ class Program
 
         _client.MessageReceived += HandleMessageAsync;
 
-        string token = "MTU1ODUxODg5MTA4MzQ2ODg1NA.GmNaZw._y6QcnpmFkxb06m5w1EPpTXvxCJRnZ8nCtkJJQ";
+        string token = "YOUR_BOT_TOKEN";
 
         await _client.LoginAsync(TokenType.Bot, token);
         await _client.StartAsync();
