@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5U7vTDPHcU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buttplug.BCC-RESIDENT-1\\source\\repos\\dildoware\\dildoware\\dildoware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net\\3.20.2\\discord.net.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.commands\\3.20.2\\discord.net.commands.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.core\\3.20.2\\discord.net.core.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.dave\\3.20.2\\discord.net.dave.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.interactions\\3.20.2\\discord.net.interactions.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.rest\\3.20.2\\discord.net.rest.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.webhook\\3.20.2\\discord.net.webhook.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\discord.net.websocket\\3.20.2\\discord.net.websocket.3.20.2.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.12\\microsoft.win32.systemevents.10.0.12.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\naudio\\3.1.0\\naudio.3.1.0.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\naudio.core\\3.1.0\\naudio.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\naudio.midi\\3.1.0\\naudio.midi.3.1.0.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\naudio.wasapi\\3.1.0\\naudio.wasapi.3.1.0.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\system.drawing.common\\10.0.12\\system.drawing.common.10.0.12.nupkg.sha512",
+    "C:\\Users\\buttplug.BCC-RESIDENT-1\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
